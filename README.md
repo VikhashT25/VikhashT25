@@ -12,18 +12,18 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Passionate about **Software Engineering, Data Engineering & AI**
+* 🎓 Passionate about **Software Engineering, Data Engineering & Data Analyst**
 * 🤖 Working on **AI-powered educational systems** (Chatbots, Concept Visualizers, Virtual Professors)
-* 🌱 Currently learning **Cloud, MLOps, and Large-Scale Data Systems**
+* 🌱 Currently learning **Cloud, Power Bi and Large-Scale Data Systems**
 * 🎯 Goal: Build impactful, intelligent, and scalable tech products
 
 ---
 
 ## 🚀 Skills Overview
 
-* **Programming:** Python, JavaScript, SQL
+* **Programming:** Python, SQL, Power Bi, Linux
 * **Web & APIs:** React.js, FastAPI, REST APIs
-* **Data & AI:** NLP, Machine Learning, Graph-based AI, Data Processing
+* **Data & AI:** Airflow, Machine Learning, Graph-based AI, Data Processing
 * **Cloud & DevOps:** Firebase, Docker (Basics), CI/CD
 * **Databases:** MySQL, PostgreSQL, Firebase Firestore
 * **Tools:** Git, GitHub, Postman, VS Code
