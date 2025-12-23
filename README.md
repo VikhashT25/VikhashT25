@@ -78,6 +78,9 @@
 ## 🤝 Connect With Me
 
 <p align="center">
+   <a href="https://vikhash-portfolio.vercel.app/">
+    <img src="https://share.google/C1YFmAxMFpMmLgsW8" />
+  </a>
   <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -87,7 +90,6 @@
 </p>
 
 ---
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
 </p>
